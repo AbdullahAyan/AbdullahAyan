@@ -1,6 +1,10 @@
 ### Hi there 👋
-[![AbdullahAyan's Stats](https://github-readme-stats.vercel.app/api?username=AbdullahAyan&theme=highcontrast&show_icons=true&hide_border=false&count_private=true),
-![AbdullahAyan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAyan&theme=highcontrast&hide_border=false)]
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahAyan&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAyan&theme=highcontrast&hide_border=false"/>
+</a>
+</p>
 <!--
 **AbdullahAyan/AbdullahAyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
